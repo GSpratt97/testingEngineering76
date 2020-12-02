@@ -4,7 +4,7 @@ Exercises based in SQL to test knowledge and reinforce learning of queries. Uses
 
 Queries to be covered in these exercises:
 
-CREATE TABLE 
+CREATE TABLE
 Concatenation 
 SQL Data Types 
 Formatting dates and numbers 
